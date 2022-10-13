@@ -10,7 +10,11 @@ Problem | Score
 ---|:---:
 Hello | 4/4
 Mario_less | 10/10
-Mario_more | 10/10
+Mario_more | 10/10  
+Item | Price | # In stock
+---|---|---
+Juicy Apples | 1.99 | 739
+Bananas | 1.89 | 6
 * [Week 2](#harvard---cs50)
 * [Week 3](#harvard---cs50)
 * [Week 4](#harvard---cs50)
