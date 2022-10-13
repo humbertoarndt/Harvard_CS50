@@ -7,11 +7,13 @@ Started: 10/13/2022
 ## Table of Contents
 * [Week 1](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_1)  
 
-| Problem | Score |
----|:---:|
-|Hello|4/4|
-|Mario_less|10/10|
-|Mario_more|10/10|
+| Problem    | Score |
+| ---        | :---: |
+| Hello      | 04/04 |
+| Mario_less | 10/10 |
+| Mario_more | 10/10 |
+| Cash       | xx/10 |
+| Credit     | xx/10 |
 
 * [Week 2](#harvard---cs50)
 * [Week 3](#harvard---cs50)
