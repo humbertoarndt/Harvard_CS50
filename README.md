@@ -5,7 +5,7 @@
 Started: 10/13/2022
 
 ## Table of Contents
-* [Week 1](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_1)
+* [Week 1](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_1)  
 Problem | Score
 ---|:---:
 Hello | 4/4
