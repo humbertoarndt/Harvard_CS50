@@ -15,7 +15,14 @@ Started: 10/13/2022
 | Cash       | 15/15 |
 | Credit     | 15/15 |
 
-* [Week 2](#harvard---cs50)
+* [Week 2](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_2)  
+
+| Problem      | Score |
+| ---          | :---: |
+| Readability  | 11/11 |
+| Caesar       |  WIP  |
+| Substitution |  WIP  |
+
 * [Week 3](#harvard---cs50)
 * [Week 4](#harvard---cs50)
 * [Week 5](#harvard---cs50)
