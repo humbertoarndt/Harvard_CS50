@@ -12,8 +12,8 @@ Started: 10/13/2022
 | Hello      | 04/04 |
 | Mario_less | 10/10 |
 | Mario_more | 10/10 |
-| Cash       | xx/10 |
-| Credit     | xx/10 |
+| Cash       | 15/15 |
+| Credit     | 15/15 |
 
 * [Week 2](#harvard---cs50)
 * [Week 3](#harvard---cs50)
