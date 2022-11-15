@@ -3,6 +3,8 @@
 
 ## 🗓️ Progress
 Started: 10/13/2022
+Week 01 Finished: 11/14/2022
+Week 02 Started: 11/15/2022
 
 ## Table of Contents
 * [Week 1](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_1)  
@@ -20,7 +22,7 @@ Started: 10/13/2022
 | Problem      | Score |
 | ---          | :---: |
 | Readability  | 11/11 |
-| Caesar       |  WIP  |
+| Caesar       | 11/11 |
 | Substitution |  WIP  |
 
 * [Week 3](#harvard---cs50)
