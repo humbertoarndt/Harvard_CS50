@@ -8,7 +8,7 @@
 | Week 00 | 11/14/2022 | 11/14/2022 |
 | [Week 1](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_1) | 11/14/2022 | 11/15/2022 |
 | [Week 2](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_2) | 11/15/2022 | 11/16/2022 |
-| [Week 3](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_3) | 11/15/2022 | WIP |
+| [Week 3](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_3) | 11/16/2022 | WIP |
 <!-- | Week 04 | WIP | WIP |
 | Week 05 | WIP | WIP |
 | Week 06 | WIP | WIP |
