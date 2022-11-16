@@ -8,7 +8,6 @@ Week 02 Started: 11/15/2022
 
 ## Table of Contents
 * [Week 1](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_1)  
-
 | Problem    | Score |
 | ---        | :---: |
 | Hello      | 04/04 |
@@ -18,12 +17,12 @@ Week 02 Started: 11/15/2022
 | Credit     | 15/15 |
 
 * [Week 2](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_2)  
-
 | Problem      | Score |
 | ---          | :---: |
 | Readability  | 11/11 |
 | Caesar       | 11/11 |
-| Substitution |  WIP  |
+| Substitution | 18/18 |
+| Scrabble     |  WIP  |
 
 * [Week 3](#harvard---cs50)
 * [Week 4](#harvard---cs50)
