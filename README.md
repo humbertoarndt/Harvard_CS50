@@ -41,8 +41,8 @@
 
 | Problem      | Score |
 | ---          | :---: |
-| Plurality    |  WIP  |
-| Runoff       |  WIP  |
+| [Plurality](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/plurality.c)    | 14/14 |
+| [Runoff](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/runoff.c)       | 25/25 |
 | Tideman      |  WIP  |
 | Sort         |  WIP  |
 
