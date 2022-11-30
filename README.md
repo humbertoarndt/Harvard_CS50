@@ -8,8 +8,10 @@
 | Week 00 | 11/14/2022 | 11/14/2022 |
 | [Week 1](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_1) | 11/14/2022 | 11/15/2022 |
 | [Week 2](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_2) | 11/15/2022 | 11/16/2022 |
-| [Week 3](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_3) | 11/16/2022 | WIP |
-<!-- | Week 04 | WIP | WIP |
+| [Week 3](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_3) | 11/16/2022 | 11/25/2022 |
+|[Week 04](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_4) | 11/28/2022 | WIP |
+
+<!-- 
 | Week 05 | WIP | WIP |
 | Week 06 | WIP | WIP |
 | Week 07 | WIP | WIP |
@@ -43,10 +45,17 @@
 | ---          | :---: |
 | [Plurality](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/plurality.c)    | 14/14 |
 | [Runoff](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/runoff.c)       | 25/25 |
-| Tideman      |  WIP  |
+| [Tideman](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/tideman.c)       | 13/18 |
 | [Sort](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/sort.c)       | 3/3 |
 
-<!-- * [Week 4](#harvard---cs50)
+* [Week 4](https://github.com/humbertoarndt/Harvard_CS50/tree/master/week_4)  
+| Problem      | Score |
+| ---          | :---: |
+| Recover      | :---: |
+| [Filter-less](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_4/filter-less)    | 22/22 |
+| Filter-more  | :---: |
+
+<!-- * 
 * [Week 5](#harvard---cs50)
 * [Week 6](#harvard---cs50)
 * [Week 7](#harvard---cs50)
