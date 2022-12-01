@@ -52,7 +52,7 @@
 
 | Problem      | Score |
 | ---          | :---: |
-| Recover      | :---: |
+| [Recover](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_4/recover)      |  7/7  |
 | [Filter-less](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_4/filter-less)    | 22/22 |
 | [Filter-more](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_4/filter-more)    | 23/23 |
 
