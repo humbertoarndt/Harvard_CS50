@@ -54,7 +54,7 @@
 | ---          | :---: |
 | Recover      | :---: |
 | [Filter-less](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_4/filter-less)    | 22/22 |
-| Filter-more  | :---: |
+| [Filter-more](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_4/filter-more)    | 23/23 |
 
 <!-- * 
 * [Week 5](#harvard---cs50)
